@@ -1,2 +1,2 @@
 # commander
-A mini game made with python (pygame).
+A mini game made with pygame.
