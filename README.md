@@ -1,2 +1,3 @@
-# commander
-A mini game made with pygame.
+# Commander Keen 
+
+A mini platform game using Pygame.
